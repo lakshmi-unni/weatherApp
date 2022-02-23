@@ -1,0 +1,25 @@
+#place{
+    width: 80%;  
+    margin-left: 10%;
+}
+#content{
+    color: rgb(255, 255, 255);
+    margin: auto;
+}
+#findButton{
+    width: 40%; 
+ /* margin-left: 5%;  */
+
+ } 
+body{
+    background-image: url("https://www.wallpapertip.com/wmimgs/14-144170_simple-simple-background-png-hd.png");
+    /* height: 100%; */
+    /* width: 100%; */
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover;  */
+}
+#head{
+    color: rgb(235, 201, 129);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
